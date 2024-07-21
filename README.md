@@ -47,7 +47,7 @@ The dataset used for this project is sourced from Kaggle. It contains informatio
 ## Screenshots
 
 ### Movie Recommendations
-![Movie Recommendations](screenshots/movie_recommendations.jpg)
+![Movie Recommendations](screenshots/movie_recommendations.JPG)
 
 ## Contributing
 
