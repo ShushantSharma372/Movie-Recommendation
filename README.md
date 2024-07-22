@@ -20,7 +20,7 @@ The dataset used for this project is sourced from Kaggle. It contains informatio
 
 1. Clone the repository:
     \`\`\`bash
-    git clone https://github.com/your-username/MovieRecommendationSystem.git
+    git clone [https://github.com/your-username/MovieRecommendationSystem.git](https://github.com/ShushantSharma372/Movie-Recommendation.git)
     cd MovieRecommendationSystem
     \`\`\`
 
